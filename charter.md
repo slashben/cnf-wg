@@ -110,6 +110,11 @@ Tech leads are primarily focused on the technical execution of the working group
 
 A maximum of one-third of the tech lead roles may be held by people from any one entity at any given moment.  See the [Independence](#independence) section for further details.
 
+**Becoming a Tech Lead**
+Tech leads can be appointed. They must self nominate by creating a PR adding their naming to the current tech leads and explaining what they want to work on. Tech leads can be added with two approvals by co-chairs. 
+
+**Current Tech Leads**
+
 
 #### Everyone else (eg. other members)
 
@@ -126,7 +131,7 @@ See [CONTRIBUTING](CONTRIBUTING.md) documentation for more information how to ge
 -->
 
 ## Elections
-Co-chairs and tech leads will be elected for one year terms and may run for reelection. 
+Co-chairs will be elected for one year terms and may run for reelection. 
 
 The CNF WG employs "organization voting" to ensure no single organization can dominate the project.
 
@@ -138,8 +143,7 @@ For the purpose of this document, “Company” shall mean any entity (Company-A
 
 Each organization listed in the [interested parties document](interested-parties.md) has one vote. Interested parties can be added at any time, but must be added at least one week before any election to have a vote. Any contributor from an organization may cast the vote for that organization. Each organization can cast one vote for a co-chair candidate in each of the communities (Kubernetes (K8s) Community, Service Provider (SP) Community, and CNF Developer (Dev) Community), three total votes. Each organization can vote for as many tech leads as they see fit.
 
-The chair for each community will be elected using [Ranked Choice Voting](https://en.wikipedia.org/wiki/Ranked_voting). Tech leads must win at least 60% of the votes cast to be elected.
-
+The chair for each community will be elected using [Ranked Choice Voting](https://en.wikipedia.org/wiki/Ranked_voting).
 
 <a name="independence"></a>
 ### Independence
